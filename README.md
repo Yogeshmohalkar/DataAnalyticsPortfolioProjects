@@ -12,7 +12,16 @@ The Bank Loan Report Dashboard is designed to monitor and assess a bank's lendin
 - **Power BI**
 - **Excel**
 - **SQL**
+## Check MySQL Queries (Solving Problem Statement)
+### Getting Data Transformed For Analysis:
+https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Bank%20Loan%20Analysis/Modify%20Columns%20step%201.sql 
+### Key Performance Indicators (KPIs) Requirements:
+https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Bank%20Loan%20Analysis/Key%20Performance%20Indicators%20(KPIs)%20Requirements%20step%202.sql
+### Good Loan v Bad Loan KPI’s:
+https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Bank%20Loan%20Analysis/Good%20Loan%20Vs%20Bad%20Loan%20step%203.sql
 
+### Loan Status Grid View Requirements:
+https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Bank%20Loan%20Analysis/Loan%20Status%20Step%204.sql
 
 ## Features
 
@@ -73,7 +82,8 @@ Visual representations of critical loan metrics and trends using various chart t
 ![Screenshot (282)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/fcade342-aa5a-47cd-aec5-617311982a70)
 
 A detailed dashboard offering a holistic snapshot of key loan metrics and borrower profiles, serving as a comprehensive interface for accessing vital loan data.
-
+# objective
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance
 
 
 
