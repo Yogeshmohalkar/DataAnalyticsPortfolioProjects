@@ -10,8 +10,9 @@ The Bank Loan Report Dashboard is designed to monitor and assess a bank's lendin
 ## Technologies Used
 
 - **Power BI**
-- **Excel**
-- **SQL**
+- **MS Excel**
+- **MySQL**
+- **Tableau**
 ## Check MySQL Queries (Solving Problem Statement)
 ### Getting Data Transformed For Analysis:
 https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Bank%20Loan%20Analysis/Modify%20Columns%20step%201.sql 
@@ -30,7 +31,8 @@ https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Bank%
 ![Screenshot (280)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/52502c93-4cff-4167-a3ff-96b4136a9340)
 #### Excel Dashboard
 ![Screenshot (284)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/92713e50-ca7c-402f-a692-526c54feaaaa)
-
+#### Tableau Dashboard
+![Summary Dashboard](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/68e7d8f8-4edc-42bc-8dbc-da96b77b8e75)
 This dashboard offers a high-level overview of the bank's lending activities, highlighting key performance indicators (KPIs) such as:
 
 - **Total Loan Applications**: Monitor total, Month-to-Date (MTD), and Month-over-Month (MoM) changes.
@@ -67,6 +69,8 @@ A comprehensive grid view categorized by loan status, providing insights into:
 ![Screenshot (281)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/4be19c61-c394-42f2-a55b-5e2d3ac4e627)
 #### Excel Dashboard
 ![Screenshot (285)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/ae6547ca-2af5-4f5f-a4c4-2c47e5cbaeec)
+#### Tableau Dashboard
+![Summary Overview](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/c5d0d704-fc54-4d45-bf25-3810be6971f8)
 
 Visual representations of critical loan metrics and trends using various chart types:
 
