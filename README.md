@@ -12,7 +12,7 @@ The Bank Loan Report Dashboard is designed to monitor and assess a bank's lendin
 - **Power BI**
 - **Excel**
 - **SQL**
-- **Tableau**
+
 
 ## Features
 
