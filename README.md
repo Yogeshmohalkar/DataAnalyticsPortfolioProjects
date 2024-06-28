@@ -29,6 +29,8 @@ This dashboard offers a high-level overview of the bank's lending activities, hi
 - **Total Amount Received**: Assess cash flow from borrowers, MTD, and MoM changes.
 - **Average Interest Rate**: Analyze average interest rates and MoM variations.
 - **Average Debt-to-Income Ratio (DTI)**: Evaluate borrower financial health with average DTI and MoM fluctuations.
+ 
+![Screenshot (286)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/16dcab28-427b-4a0f-b744-8ed2a89492e1)
 
 ### Good Loan vs. Bad Loan KPIs
 
@@ -36,6 +38,8 @@ Evaluate the quality of the loan portfolio with KPIs for both good and bad loans
 
 - **Good Loans**: Metrics include application percentage, total applications, funded amount, and total received amount.
 - **Bad Loans**: Metrics include application percentage, total applications, funded amount, and total received amount.
+
+![Screenshot (287)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/e594a090-6ef0-4138-88fa-ab4537a9a865)
 
 ### Loan Status Grid View
 
