@@ -91,3 +91,56 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 
 
+# Employee Retention - HR Analytics KPI Dashboard
+
+## Project Overview
+
+The Employee Retention project in HR Analytics aims to analyze factors influencing attrition rates and employee retention within an organization. Utilizing Power BI, Excel, MySQL, and Tableau, this project explores various key performance indicators (KPIs) to understand trends and make data-driven decisions.
+
+## Dataset Details
+
+- **Dataset Name**: HR_1 & HR_2
+- **Dataset Type**: Excel Data
+- **Dataset Size**: 50,000 records each
+
+## Technologies Used
+
+- **Power BI**: For interactive data visualization and dashboard creation
+- **Excel**: For data cleaning, preprocessing, and initial analysis
+- **MySQL**: For data storage and querying
+- **Tableau**: For advanced visual analytics and interactive dashboards
+
+# Key Performance Indicators (KPIs) Requirements
+
+## 1. **Average Attrition Rate for All Departments**
+
+![Screenshot (297)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/032c204b-6085-42af-8012-3f522566dfd8)
+
+## 2. **Average Hourly Rate of Male Research Scientists**
+![Screenshot (298)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/addc3da4-cd9b-4841-bc97-7d17c87516c2)
+
+## 3. **Attrition Rate vs. Monthly Income Statistics**
+![Screenshot (299)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/aa5d4493-8371-476d-9b71-384d544644c6)
+## 4. **Average Working Years for Each Department**
+![Screenshot (302)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/3ab821f9-3931-4cbe-97cf-96391c6d2248)
+## 5. **Job Role vs. Work Life Balance**
+![Screenshot (301)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/f3789d8c-a186-455c-ba15-272f2542d565)
+## 6. **Attrition Rate vs. Years Since Last Promotion Relationship**
+![Screenshot (304)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/b525ffac-acf6-443e-9618-617eb4619688)
+
+# Check MySQL Queries (Analysis of KPI Requirments)
+https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/blob/main/Employee%20Retention%20Analysis%20-%20HR%20Analytics/HR_Analytics_Employee_Retention_Analysis.sql 
+
+# Features
+## Dashboard 1 - Power Bi 
+![Screenshot (288)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/eb3af452-a413-4a3d-af27-2b484fe8dd67) 
+## Dashboard 1 - Excel Dashboard 
+![Screenshot (296)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/4536ed07-a318-47aa-96dc-830f21a8c5aa)
+## Dashboard 1 - Tableau Dashboard 
+![Screenshot (295)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/e3e0181d-e8f8-4280-88f8-a136426d806d)
+## Analysis and Insights
+
+This project provides deep insights into employee retention factors, including demographic analysis, departmental trends, and correlation analysis between various KPIs. Visualizations and dashboards created in Power BI and Tableau facilitate easy interpretation and decision-making.
+
+
+
