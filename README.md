@@ -144,3 +144,71 @@ This project provides deep insights into employee retention factors, including d
 
 
 
+# Coffee Sales Data Analysis Project
+
+## Description
+This project involves analyzing coffee sales data to uncover trends, patterns, and insights. The dataset combines information from two different tables and includes various attributes such as customer details, product information, and sales metrics.
+
+
+## Project Overview
+The objective of this project is to provide a comprehensive analysis of coffee sales data to identify key metrics and trends. The analysis focuses on:1. Total Sales Over Time
+2. Sales by Country
+3. Top 5 Customers
+
+## Dataset
+The dataset includes the following columns:
+- Customer ID
+- Product ID
+- Quantity
+- Customer Name
+- Email
+- Country
+- Coffee Type
+- Roast Type
+- Size
+- Unit Price
+- Sales
+- Coffee Type Name
+- Roast Type Name
+- Loyalty Card
+
+## Analysis
+### Total Sales Over Time
+Analyzed the sales trend over a specific period to identify peak sales periods and seasonal patterns.
+
+### Sales by Country
+Evaluated sales distribution across different countries to identify key markets and regions with the highest sales volume.
+
+### Top 5 Customers
+Identified the top 5 customers based on total sales to understand customer buying behavior and loyalty.
+
+## Techniques and Formulas
+The following techniques and formulas were used in the analysis:
+- **XLOOKUP**: For advanced lookups between the two tables.
+- **INDEX MATCH**: For flexible data retrieval.
+- **Multiplication Formula for Sales**: Calculated total sales by multiplying quantity by unit price.
+- **Multiple IF Functions**: Used for conditional analysis.
+- **Date Formatting**: Standardized date formats for consistency.
+- **Number Formatting**: Enhanced readability of numerical data.
+- **Check for Duplicates**: Ensured data integrity.
+- **Convert Range to Table**: Structured data for better management.
+- **Pivot Tables and Pivot Charts + Formatting**: Created summarized views of data.
+- **Insert Timeline + Formatting**: Added timelines for dynamic date filtering.
+- **Insert Slicers + Formatting**: Added slicers for interactive data filtering.
+- **Updating the Pivot Table Data Source**: Ensured pivot tables reflect the latest data.
+- **Building the Dashboard**: Created a comprehensive dashboard to visualize key metrics.
+
+## Dynamic Filters
+The analysis includes dynamic filters based on:
+- Roast Type Name
+- Size
+- Loyalty Card
+- Order Data Timeline Filter
+
+These filters allow for interactive exploration of the data, enabling users to drill down into specific segments of interest.
+
+## Dashboard
+A professional dashboard was built to present the findings in a clear and concise manner. The dashboard includes charts and graphs that provide insights into total sales over time, sales by country, and top customers, along with dynamic filters for enhanced interactivity.
+
+![Screenshot (305)](https://github.com/Yogeshmohalkar/DataAnalyticsPortfolioProjects/assets/111111463/20dd6755-69e0-4d7f-ae70-a212e66a61f3)
+
