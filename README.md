@@ -1,5 +1,91 @@
 # DataAnalyticsPortfolioProjects
 
+# Diversity and Inclusion Analytics - HR Data Visualization
+
+Power BI Dashboard Preview
+![Screenshot (356)](https://github.com/user-attachments/assets/7da1ccdc-7094-47ac-b6df-67c57f6f571b)
+![Screenshot (357)](https://github.com/user-attachments/assets/97fdc768-8a59-4e1a-97f4-0c8702ec64c3)
+
+## Project Overview
+
+This project was developed to provide insights into diversity and inclusion at the executive level in a corporate environment, using data visualization techniques with **Power BI**. The analysis focused on gender balance, promotion trends, turnover rates, and performance ratings, aiming to help companies, especially in the telecom industry, understand the dynamics of their workforce better. The ultimate goal was to identify areas for improvement in achieving gender balance and provide actionable insights to improve diversity and inclusion metrics.
+
+## Key Features
+
+- **KPIs Definition:** Defined key performance indicators (KPIs) for gender balance, promotions, hiring, performance, and turnover.
+- **Data Visualization:** Created 6 custom visualizations, split into two comprehensive dashboards, to showcase the gender diversity metrics.
+- **Root Cause Analysis:** Analyzed potential root causes behind slow progress in achieving gender balance at the executive management level.
+- **Slicers for Filtering:** Added slicers to filter data by department, job level, region group, and age group, enabling detailed analysis.
+
+## Visualizations
+
+The following KPIs and visualizations were created using Power BI:
+
+1. **Hiring KPIs:**
+   - **Employee ID by Job Level and Gender (Post FY20 Promotions)** - Helps identify gender distribution by job level after the recent promotions.
+   - **Executive Hires (FY20 & FY21)** - Displays executive-level hiring trends to track gender balance improvement.
+
+2. **Promotion KPIs:**
+   - **Average Time in Grade for Employees Promoted in FY21** - Analyzed time employees spent in their current roles before promotion, focusing on gender differences.
+   - **Promotions by Gender** - Visualized the percentage of male and female employees promoted in FY21.
+
+3. **Turnover KPIs:**
+   - **Average Performance Rating of Leavers vs. Non-Leavers (by Gender)** - Compared the performance ratings of employees who left the company with those who stayed.
+   - **Employee Turnover Rates** - Visualized turnover rates by gender, helping identify retention challenges.
+
+4. **Performance Rating KPIs:**
+   - **Performance Ratings by Gender (FY20)** - Compared performance ratings between male and female employees.
+   - **Average Rating by Gender** - Tracked average performance ratings across genders to identify potential disparities.
+
+5. **Executive Gender Balance:**
+   - **Executive Split (FY20 & FY21)** - Analyzed the gender split in executive positions over two fiscal years.
+   - **Employee Distribution by Age Group and Job Level (Post FY21 Promotions)** - Analyzed gender distribution within different age groups and job levels after promotions.
+
+6. **Slicers Added for Enhanced Filtering:**
+   - Data can be filtered by **Department**, **Job Level**, **Region Group**, and **Age Group** to drill down and gain more specific insights.
+
+## Project Objective
+
+The client, a major telecom company, was striving to improve gender balance at the executive management level but struggled to see progress. They required detailed insights and root cause analysis on diversity and inclusion to make data-driven decisions and foster a more inclusive workplace.
+
+This project was carried out to:
+- Provide visual data insights for key HR metrics focusing on gender diversity.
+- Identify potential barriers to achieving gender balance.
+- Suggest strategies for improvement based on data analysis.
+
+## Tools and Technologies Used
+
+- **Power BI:** For creating interactive dashboards and visualizations.
+- **HR Dataset:** Consisted of data on employees’ gender, promotion history, performance ratings, turnover, and hiring details.
+- **DAX Functions:** Used to calculate KPIs and metrics, providing deeper insights into the HR data.
+
+## Root Cause Analysis
+
+Through detailed data exploration and KPI visualization, the following root causes were identified for slow progress in gender balance at the executive level:
+- **Underrepresentation of Women in Executive Hires:** Despite improvement in overall gender balance, the number of women hired into executive positions remains significantly lower compared to men.
+- **Promotion Trends:** While 41% of women were promoted in FY21, a gender imbalance still exists at higher job levels, with fewer women holding senior positions.
+- **Turnover Rates:** Slightly higher turnover rates among women, coupled with marginally better performance ratings for women, may indicate unaddressed workplace challenges that lead to voluntary exits.
+- **Performance Ratings:** Men and women had near-equal average performance ratings, but a lack of gender balance at senior levels suggests other factors might be influencing promotion decisions.
+
+## Recommendations for Improvement
+
+Based on the analysis, here are some suggestions to improve gender balance and foster an inclusive workplace:
+1. **Targeted Leadership Programs for Women:** Implement leadership development programs aimed specifically at preparing women for executive roles.
+2. **Mentorship Programs:** Establish mentorship opportunities to support women’s career growth within the company.
+3. **Diverse Hiring Initiatives:** Review and adjust hiring practices to ensure a balanced representation of genders in executive hiring.
+4. **Retention Strategies:** Develop retention programs focused on addressing workplace challenges faced by women, particularly those in senior positions, to reduce turnover.
+
+
+## Future Enhancements
+
+- **Incorporate New KPIs:** Add additional KPIs related to compensation, career progression, and work-life balance for a more holistic view.
+- **Machine Learning Integration:** Use predictive analytics to forecast future gender balance trends based on current hiring and promotion practices.
+
+## Conclusion
+
+This project demonstrates how data analytics and visualization can be powerful tools in promoting diversity and inclusion in the workplace. By focusing on gender-related KPIs and identifying root causes, organizations can make informed decisions to improve their diversity metrics and create a more inclusive work environment.
+
+
 # Telecom Customer Service Data Analysis Using Power BI
 
 Power BI Dashboard Preview![Screenshot (355)](https://github.com/user-attachments/assets/f9a944a9-84ab-4e90-a30e-831b3a080b7a)
