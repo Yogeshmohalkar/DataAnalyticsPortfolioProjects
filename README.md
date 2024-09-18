@@ -1,5 +1,111 @@
 # DataAnalyticsPortfolioProjects
 
+# Telecom Customer Service Data Analysis Using Power BI
+
+Power BI Dashboard Preview![Screenshot (355)](https://github.com/user-attachments/assets/f9a944a9-84ab-4e90-a30e-831b3a080b7a)
+ 
+*This dashboard visualizes telecom customer service KPIs, including customer satisfaction, call handling, and agent performance.*
+
+ Project Overview
+
+This project demonstrates my skills in data analysis and visualization using Power BI. It was developed as part of a broader Digital Accelerator Program, where employees were upskilled in digital tools, including data visualization, automation, and digital storytelling. The task was to create a Power BI dashboard for a large telecom company to help them monitor their customer service performance through Key Performance Indicators (KPIs) and metrics.
+
+---
+
+ Table of Contents
+- [Objective](#objective)
+- [Dataset](#dataset)
+- [Tools Used](#tools-used)
+- [Process](#process)
+- [Key Metrics](#key-metrics)
+- [Insights & Recommendations](#insights--recommendations)
+- [Challenges](#challenges)
+- [Conclusion](#conclusion)
+- [How to Run This Project](#how-to-run-this-project)
+- [Contact](#contact)
+
+---
+
+ Objective
+The objective was to create an interactive Power BI dashboard for visualizing telecom customer service data to help the company make data-driven decisions. The dashboard reflects key metrics such as:
+- Customer satisfaction
+- Calls answered vs. abandoned
+- Average speed of answer
+- Agent performance
+
+---
+
+ Dataset
+
+The dataset provided includes customer service data for the telecom company, covering the following fields:
+- Overall customer satisfaction ratings
+- Call details: number of calls answered, abandoned, and call handling times
+- Agent performance data
+
+The dataset required initial cleaning and transformation to ensure consistency.
+
+---
+
+ Tools Used
+- Power BI: For data visualization and dashboard creation.
+- Excel: For data cleaning and preparation.
+- DAX (Data Analysis Expressions): For creating calculated columns and custom metrics.
+
+---
+
+ Process
+
+1. Data Preparation:
+   - Imported the dataset into Excel for cleaning, such as removing duplicates and formatting inconsistencies.
+   - Imported cleaned data into Power BI.
+   
+2. Dashboard Creation:
+   - Designed and built visualizations to track calls answered vs. abandoned, customer satisfaction, and agent performance.
+   - Added interactive filters for time periods and agent-based filtering to allow for dynamic data exploration.
+   
+3. KPI Calculations:
+   - Used DAX to create custom KPIs like the average speed of answer, and the percentage of calls abandoned.
+
+---
+
+ Key Metrics
+
+Some key KPIs visualized in the dashboard:
+- Customer Satisfaction: 3.40 out of 5.
+- Calls Answered vs. Abandoned: 
+  - Answered: 81.06%
+  - Abandoned: 19.92%
+- Monthly Call Trends:
+  - January: 1,455 answered, 317 abandoned.
+  - February: 1,298 answered, 318 abandoned.
+  - March: 1,301 answered, 311 abandoned.
+- Average Speed of Answer: 67.52 seconds.
+- Agent Performance: Visualized through a scatter plot showing agent talk time vs calls handled.
+
+---
+
+ Insights & Recommendations
+
+- High call abandonment rate (19.92%) indicates the need for improved response times, suggesting potential optimization in call routing and agent allocation.
+- Agent performance: Identified agents with low call handling efficiency, which can be improved through training or process changes.
+- Monthly trends: January saw a higher number of calls, which can guide resource allocation during peak periods.
+
+---
+
+ Challenges
+
+- Data cleaning: The dataset had inconsistencies such as duplicate entries and formatting issues that required preprocessing in Excel.
+- Custom KPI creation: Designing custom metrics using DAX involved understanding complex client requirements and translating them into actionable visualizations.
+
+---
+
+ Conclusion
+
+The Power BI dashboard provided the client with clear insights into their customer service performance, helping them:
+- Reduce the call abandonment rate.
+- Improve agent efficiency through data-driven performance analysis.
+- Optimize call center resources during peak times.
+
 
 # Bank Loan Report Dashboard
 
