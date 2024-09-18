@@ -1,24 +1,116 @@
 # DataAnalyticsPortfolioProjects
+---
+# Customer Retention Dashboard for Telecom Industry
+
+## Overview
+
+This project is part of the **PwC Switzerland Data Analytics Virtual Internship Program** on the **Forage** platform, completed between August and September 2024. The goal of this project was to analyze customer retention data from a telecom company and create a comprehensive dashboard that identifies key performance indicators (KPIs) to help the company reduce churn. The dashboard provides insights into customer demographics, subscription patterns, and factors contributing to customer churn, helping the telecom company take proactive steps to retain its customers.
+---
+Power BI Dashboard Preview
+![Screenshot (358)](https://github.com/user-attachments/assets/03bb15cb-3030-4dcd-8714-c8ae59620297)
+---
+![Screenshot (360)](https://github.com/user-attachments/assets/ec4e2281-4f5a-4bd2-a850-56dbbe79925b)
+---
+![Screenshot (359)](https://github.com/user-attachments/assets/6b1c2b35-4984-415a-bc81-f154b3b5e7fe)
+---
+## Project Objectives
+
+- **Define KPIs** related to customer retention and churn.
+- **Develop an interactive dashboard** using Power BI to visualize customer demographics and provide actionable insights.
+- **Analyze customer behavior** to identify retention strategies and areas for improvement.
+- **Provide business recommendations** based on the analysis of customer data.
+---
+## Tools Used
+
+- **Power BI**: For data visualization and creating the dashboard.
+- **Excel**: Used for preliminary data analysis and cleaning.
+- **MySQL**: Used for querying the dataset and data manipulation.
+- **Python (Pandas)**: For advanced data analysis and manipulation.
+---
+## Dataset
+
+The dataset contains customer data from a telecom company, including information on:
+- **Demographics**: Gender, age, partnership status, dependents.
+- **Services subscribed**: Phone, internet, online security, tech support, etc.
+- **Customer account information**: Payment method, contract type, billing, monthly and total charges.
+- **Customer tickets**: Administrative and technical tickets opened.
+---
+## Key Performance Indicators (KPIs)
+
+To monitor and understand customer behavior, I defined the following KPIs:
+1. **Customer Churn Count**: Number of customers who left the company within the last month.
+2. **Monthly and Yearly Charges**: The total amount billed to customers.
+3. **Number of Tickets**: Count of administrative and technical tickets opened.
+4. **Churn Rate by Contract Type**: Percentage of churn based on different contract lengths (month-to-month, one-year, and two-year).
+5. **Churn Rate by Payment Method**: The percentage of customers using different payment methods (electronic checks, credit cards, etc.) who churned.
+6. **Churn Rate by Internet Service Type**: Breakdown of churn based on the type of internet service subscribed (fiber optic, DSL, or no internet).
+---
+## Dashboard Overview
+---
+### **1. Customer Churn Analysis Dashboard**
+The first dashboard provides a detailed view of customers who have churned, their subscription patterns, and demographic information. Key metrics include:
+- **Churn Count**: 1,869 customers churned in the last month.
+- **Service Subscription Patterns**: 91% of customers subscribed to phone service, and 69% opted for fiber optic internet.
+- **Demographics**: 50% of customers are female, 25% are senior citizens, and 36% have partners.
+- **Account Information**: 57% of customers use electronic checks for payment, and 74.9% prefer paperless billing.
+---
+### **2. Customer Risk Analysis Dashboard**
+The second dashboard identifies customers at risk of churning, providing insights to the retention team for proactive measures. Key metrics include:
+- **Total Customers**: 7,043
+- **Churn Rate**: 26.54%
+- **Churn by Internet Service**: Fiber optic customers have a higher churn rate (41.89%) than DSL customers (18.96%).
+- **Churn by Contract Type**: Month-to-month contracts have the highest churn rate (42.71%).
+---
+### **Interactive Features**: 
+- **Slicers** allow the user to filter data by risk of churn, internet service, subscription month, and contract type, enabling a tailored view of the data.
+---
+## Business Insights
+
+1. **Retention Strategy**:
+   - Customers on month-to-month contracts are more likely to churn. Offering them incentives to switch to longer-term contracts can reduce churn.
+   - Customers with dependents represent a significant portion of the customer base. Offering family-oriented packages may increase retention.
+
+2. **Service Adoption**:
+   - Services like **online security** (15.78%) and **tech support** (16.59%) have low adoption rates. Promoting these services, possibly through bundling, could increase their adoption and provide added value to customers.
+
+3. **Customer Feedback**:
+   - Collect feedback from **senior citizens** and customers with **partners and dependents** to tailor services specifically for these segments, improving satisfaction and retention.
+
+4. **Payment Method Impact**:
+   - Customers using **electronic checks** have a higher churn rate (41.29%). Encouraging customers to switch to more stable payment methods, like credit cards, could reduce churn.
+---
+## Challenges Faced & Solutions
+
+- **Challenge**: Handling multiple data sources with inconsistent formats.
+  - **Solution**: Pre-processed the data in Excel and used **MySQL** to clean and unify the data into a consistent format for analysis in Power BI.
+  
+- **Challenge**: Visualizing large amounts of data in a simple and intuitive way.
+  - **Solution**: Developed an interactive dashboard with slicers and filters to allow the management team to explore the data easily.
+---
+## Conclusion
+
+This project demonstrates my ability to transform raw data into actionable business insights using data analytics tools like Power BI, Excel, and MySQL. The insights provided can help the telecom company reduce churn, increase service adoption, and develop more targeted retention strategies. By implementing the suggestions from this analysis, the company can enhance customer satisfaction and retention, directly impacting profitability.
+---
 
 # Diversity and Inclusion Analytics - HR Data Visualization
-
+---
 Power BI Dashboard Preview
 ![Screenshot (356)](https://github.com/user-attachments/assets/7da1ccdc-7094-47ac-b6df-67c57f6f571b)
 ![Screenshot (357)](https://github.com/user-attachments/assets/97fdc768-8a59-4e1a-97f4-0c8702ec64c3)
-
+---
 ## Project Overview
 
-This project was developed to provide insights into diversity and inclusion at the executive level in a corporate environment, using data visualization techniques with **Power BI**. The analysis focused on gender balance, promotion trends, turnover rates, and performance ratings, aiming to help companies, especially in the telecom industry, understand the dynamics of their workforce better. The ultimate goal was to identify areas for improvement in achieving gender balance and provide actionable insights to improve diversity and inclusion metrics.
-
+This project is part of the **PwC Switzerland Data Analytics Virtual Internship Program** on the **Forage** platform, completed between August and September 2024.This project was developed to provide insights into diversity and inclusion at the executive level in a corporate environment, using data visualization techniques with **Power BI**. The analysis focused on gender balance, promotion trends, turnover rates, and performance ratings, aiming to help companies, especially in the telecom industry, understand the dynamics of their workforce better. The ultimate goal was to identify areas for improvement in achieving gender balance and provide actionable insights to improve diversity and inclusion metrics.
+---
 ## Key Features
 
 - **KPIs Definition:** Defined key performance indicators (KPIs) for gender balance, promotions, hiring, performance, and turnover.
 - **Data Visualization:** Created 6 custom visualizations, split into two comprehensive dashboards, to showcase the gender diversity metrics.
 - **Root Cause Analysis:** Analyzed potential root causes behind slow progress in achieving gender balance at the executive management level.
 - **Slicers for Filtering:** Added slicers to filter data by department, job level, region group, and age group, enabling detailed analysis.
-
+---
 ## Visualizations
-
+---
 The following KPIs and visualizations were created using Power BI:
 
 1. **Hiring KPIs:**
@@ -43,7 +135,7 @@ The following KPIs and visualizations were created using Power BI:
 
 6. **Slicers Added for Enhanced Filtering:**
    - Data can be filtered by **Department**, **Job Level**, **Region Group**, and **Age Group** to drill down and gain more specific insights.
-
+---
 ## Project Objective
 
 The client, a major telecom company, was striving to improve gender balance at the executive management level but struggled to see progress. They required detailed insights and root cause analysis on diversity and inclusion to make data-driven decisions and foster a more inclusive workplace.
@@ -52,13 +144,13 @@ This project was carried out to:
 - Provide visual data insights for key HR metrics focusing on gender diversity.
 - Identify potential barriers to achieving gender balance.
 - Suggest strategies for improvement based on data analysis.
-
+---
 ## Tools and Technologies Used
 
 - **Power BI:** For creating interactive dashboards and visualizations.
 - **HR Dataset:** Consisted of data on employees’ gender, promotion history, performance ratings, turnover, and hiring details.
 - **DAX Functions:** Used to calculate KPIs and metrics, providing deeper insights into the HR data.
-
+---
 ## Root Cause Analysis
 
 Through detailed data exploration and KPI visualization, the following root causes were identified for slow progress in gender balance at the executive level:
@@ -66,7 +158,7 @@ Through detailed data exploration and KPI visualization, the following root caus
 - **Promotion Trends:** While 41% of women were promoted in FY21, a gender imbalance still exists at higher job levels, with fewer women holding senior positions.
 - **Turnover Rates:** Slightly higher turnover rates among women, coupled with marginally better performance ratings for women, may indicate unaddressed workplace challenges that lead to voluntary exits.
 - **Performance Ratings:** Men and women had near-equal average performance ratings, but a lack of gender balance at senior levels suggests other factors might be influencing promotion decisions.
-
+---
 ## Recommendations for Improvement
 
 Based on the analysis, here are some suggestions to improve gender balance and foster an inclusive workplace:
@@ -74,17 +166,17 @@ Based on the analysis, here are some suggestions to improve gender balance and f
 2. **Mentorship Programs:** Establish mentorship opportunities to support women’s career growth within the company.
 3. **Diverse Hiring Initiatives:** Review and adjust hiring practices to ensure a balanced representation of genders in executive hiring.
 4. **Retention Strategies:** Develop retention programs focused on addressing workplace challenges faced by women, particularly those in senior positions, to reduce turnover.
-
+---
 
 ## Future Enhancements
 
 - **Incorporate New KPIs:** Add additional KPIs related to compensation, career progression, and work-life balance for a more holistic view.
 - **Machine Learning Integration:** Use predictive analytics to forecast future gender balance trends based on current hiring and promotion practices.
-
+---
 ## Conclusion
 
 This project demonstrates how data analytics and visualization can be powerful tools in promoting diversity and inclusion in the workplace. By focusing on gender-related KPIs and identifying root causes, organizations can make informed decisions to improve their diversity metrics and create a more inclusive work environment.
-
+---
 
 # Telecom Customer Service Data Analysis Using Power BI
 
@@ -95,20 +187,6 @@ Power BI Dashboard Preview![Screenshot (355)](https://github.com/user-attachment
  Project Overview
 
 This project demonstrates my skills in data analysis and visualization using Power BI. It was developed as part of a broader Digital Accelerator Program, where employees were upskilled in digital tools, including data visualization, automation, and digital storytelling. The task was to create a Power BI dashboard for a large telecom company to help them monitor their customer service performance through Key Performance Indicators (KPIs) and metrics.
-
----
-
- Table of Contents
-- [Objective](#objective)
-- [Dataset](#dataset)
-- [Tools Used](#tools-used)
-- [Process](#process)
-- [Key Metrics](#key-metrics)
-- [Insights & Recommendations](#insights--recommendations)
-- [Challenges](#challenges)
-- [Conclusion](#conclusion)
-- [How to Run This Project](#how-to-run-this-project)
-- [Contact](#contact)
 
 ---
 
